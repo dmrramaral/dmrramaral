@@ -23,7 +23,7 @@ Sou um desenvolvedor de software apaixonado por tecnologia e programação. Tenh
 
 ## Habilidades
 
-- Linguagens de Programação: Java, HTML e CSS.
+- Linguagens de Programação: Java.
 - Frameworks: Spring, Angular e Bootstrap
 - Banco de Dados: MySQL e H2
 - Ferramentas: Git, Visual Studio Code, Eclipse
@@ -40,6 +40,7 @@ Sou um desenvolvedor de software apaixonado por tecnologia e programação. Tenh
 
 ## Formação Acadêmica
 
+- Desenvolvedor Full Stack - Nodejs React AWS: Unyleya (2023-2024)
 - Tecnólogo em Análise de Desenvolvimento de Sistemas: Universidade Cruzeiro do Sul (2021- 2022)
 - Técnico em Informática: SENAC (2014-2016)
 
