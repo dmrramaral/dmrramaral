@@ -6,8 +6,7 @@ Apaixonado por tecnologia, sou graduado em Análise e Desenvolvimento de Sistema
 
 ## Habilidades
 
-- Linguagens de Programação: Java, NodeJS, ReactJS.
-- Frameworks: Spring Boot, Angular, Bootstrap.
+- Técnologias: Java, NodeJS, Spring Boot, Angular, Bootstrap e PrimeNG.
 - Banco de Dados: SQL, NoSql - MongoDB.
 - Ferramentas: Git, Docker, Linux, CI/CD.
 - Cloud Computing: AWS.
