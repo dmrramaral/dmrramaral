@@ -1,61 +1,72 @@
-Olá, sou Douglas Amaral!
+# Olá, sou o Douglas Amaral! 👋
 
-## Sobre Mim
+Desenvolvedor Full Stack focado no ecossistema Java e Angular, atualmente trabalhando com sistemas de grande porte, processamento de alta criticidade e arquiteturas modernas de microsserviços e micro front-ends. Minha trajetória de 8 anos como militar consolidou minha disciplina, resiliência, forte senso de organização e foco em resultados.
 
-Apaixonado por tecnologia, sou graduado em Análise e Desenvolvimento de Sistemas e estou concluindo um MBA em Desenvolvedor Full Stack. Tenho conhecimento em várias tecnologias, incluindo Java, Spring Boot, Maven, SQL, Angular TypeScript, BootStrap e Cloud. Minha experiência de 8 anos como militar me tornou uma pessoa pontual e disciplinada. Estou sempre aberto a aprender e compartilhar conhecimentos com os outros.
+---
 
-## Habilidades
+### 🚀 No que estou trabalhando atualmente
+- Alocado na **Caixa Econômica Federal** (via Qintess), atuando como Desenvolvedor Full Stack.
+- Construção e otimização de arquiteturas de eventos em tempo real com **Azure EventHubs** e rotinas batch de alta performance.
+- Desenvolvimento de APIs modernas com **Quarkus** e **Spring Boot**.
+- Sustentação de sistemas legados corporativos e orquestração de **Micro Front-ends (single-SPA)** com JavaScript puro e **Angular**.
 
+---
 
-- Técnologias: Java, NodeJS, Spring Boot, Angular, Bootstrap e PrimeNG.
-  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### 🛠️ Minhas Habilidades
+
+#### Back-end & Mensageria
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Azure Event Hubs](https://img.shields.io/badge/Azure_Event_Hubs-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+#### Front-end
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- Banco de Dados: SQL, NoSql - MongoDB.
-  
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+#### Bancos de Dados
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![IBM DB2](https://img.shields.io/badge/IBM_DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- Ferramentas: Git, Docker, Linux, CI/CD.
-  
+#### DevOps, Nuvem & Ferramentas
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- Cloud Computing: AWS.
-  
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+---
 
-## Experiência Profissional
+### 💼 Experiência Profissional
 
-- Exército Brasileiro (EB): Analista de Dados (Março de 2020 - Fevereiro de 2021 e Dezembro de 2021 - Fevereiro de 2024).
-- Exército Brasileiro (EB): Desenvolvedor Full Stack (Agosto de 2020 - Agosto de 2021).
+- **Qintess (Alocado na Caixa Econômica Federal)** | Desenvolvedor Full Stack *(Outubro de 2024 - Atual)*
+- **Exército Brasileiro** | Analista de Dados / Desenvolvedor Full Stack *(Fevereiro de 2020 - Fevereiro de 2024)*
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dmrramaral&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+---
 
-## Formação Acadêmica
+### 🎓 Formação Acadêmica
 
-- Técnico de Informática: SENAC (Janeiro de 2014 - Março de 2016).
-- Tecnólogo em Análise e Desenvolvimento de Sistemas: Universidade Cruzeiro do Sul (Fevereiro de 2021 - Abril de 2023).
-- Pós MBA em Desenvolvimento FullStack: UNYLEYA (Agosto de 2023 - em andamento).
+- **MBA em Desenvolvimento Full Stack** – Faculdade Unyleya *(2024)*
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** – Universidade Cruzeiro do Sul *(2023)*
+- **Técnico em Informática** – SENAC *(2016)*
 
-## Formação Complementar
+---
 
-- Desenvolvimento Full Stack: Alura.
-- Desenvolvimento Java: SENAI.
-- AWS Academy Cloud Fundations: AWS.
+### 📊 Estatísticas do GitHub
 
-## Contato
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dmrramaral&layout=compact&bg_color=0D1117&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+---
+
+### 🤝 Vamos nos conectar?
+
+Seja para trocar experiências sobre a stack Java/Angular, discutir sobre arquitetura de software ou oportunidades de projetos desafiadores, fique à vontade para entrar em contato!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaraldev/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:dmrramaral@gmail.com)
-
-
-
-Estou animado para contribuir em projetos desafiadores e colaborar com uma equipe talentosa. Entre em contato para discutir oportunidades de trabalho ou projetos interessantes!
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmrramaral@gmail.com)
